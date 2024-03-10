@@ -24,7 +24,7 @@ const OPT = {
     "otherCodeC":``,//其他参数A
     "otherCodeD":``,//其他参数A
     "otherCodeE":``,//其他参数A
-    "copyRight" :`Powered by <a href="https://github.com/skinheadH/cloudflare-blog">skinheadH</a> & <a href="http://blog.hbb.cloudns.org/">piaochong </a>`,//页脚声明链接
+    "copyRight" :`From <a href="https://github.com/skinheadH/cloudflare-blog">skinheadH</a> & Example <a href="http://blog.hbb.cloudns.org/">piaochong </a>`,//页脚声明链接
 "robots":`User-agent: *
 Disallow: /admin`//robots.txt设置
 };
